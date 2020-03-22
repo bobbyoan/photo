@@ -57,16 +57,16 @@
             </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/resources/pictures/carousel/cs_1.jpg" class="d-block w-100" alt="...">
+                <img src="resources/pictures/carousel/cs_1.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="/resources/pictures/carousel/cs_2.jpg" class="d-block w-100" alt="...">
+                <img src="resources/pictures/carousel/cs_2.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="/resources/pictures/carousel/cs_3.jpg" class="d-block w-100" alt="...">
+                <img src="resources/pictures/carousel/cs_3.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="/resources/pictures/carousel/cs_4.jpg" class="d-block w-100" alt="...">
+                <img src="resources/pictures/carousel/cs_4.jpg" class="d-block w-100" alt="...">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -87,7 +87,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="card">
-                    <img src="/resources/pictures/cards/card1.jpg" class="card-img-top" alt="...">
+                    <img src="resources/pictures/cards/card1.jpg" class="card-img-top" alt="...">
                   <div class="card-body">
                     <h5 class="card-title">Aviation</h5>
                     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -98,7 +98,7 @@
 
               <div class="col-sm-4">
                 <div class="card">
-                    <img src="/resources/pictures/cards/card2.jpg" class="card-img-top" alt="...">
+                    <img src="resources/pictures/cards/card2.jpg" class="card-img-top" alt="...">
                   <div class="card-body">
                     <h5 class="card-title">Landscapes</h5>
                     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
