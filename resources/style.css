@@ -1,0 +1,16 @@
+body, .jumbotron{
+    background-image: url("/resources/pictures/other/back.jpg");
+    background-size: cover;
+}
+
+body, .jumbotron, h5, .btn, p{
+    font-family: Kaushan Script;
+}
+
+.nav-link{
+    float: right;
+}
+
+.jumbotron h1, p{
+    font-weight: bold;
+}
